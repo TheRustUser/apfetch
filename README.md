@@ -1,7 +1,5 @@
 # apfetch
-How to Install from crates.io
-```cargo install apfetch```
-
-How to Install from git repository
-```cd apfetch```
-```cargo install -path .```
+How to Install
+Default Prefix: /usr/local/bin
+```make all```
+```make install```
